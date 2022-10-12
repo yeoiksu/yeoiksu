@@ -24,11 +24,6 @@
 <br>
 <br>
 <br>
-<hr>
 
-![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy)
 
-<!---
-yeoiksu/yeoiksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy)--->
