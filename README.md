@@ -7,15 +7,26 @@
 - 🌱 I currently join Microsoft AI School in South Korea. 
 - 📫 If you want to contact me, feel free to leave a message :)
 
-
 ## Skills
 
 #### Platforms & Languages
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### Tools
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
 
-
-
+![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy)
 
 <!---
 yeoiksu/yeoiksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
