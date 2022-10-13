@@ -13,11 +13,11 @@
 ## Skills
 
 #### Stack
-<br> Html
-<br> CSS
-<br> Javascript
-<br> Python
-<br> PostgreSQL
+<br> <!--Html-->
+<br> <!--CSS-->
+<br> <!--Javascript-->
+<br> <!--Python-->
+<br> <!--PostgreSQL-->
 <br>
 
 #### Tools
