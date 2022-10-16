@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=Visited&edge_flat=false)](https://github.com/yeoiksu)
+<a href="https://github.com/yeoiksu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23858585&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false)"/></a>
 <a href='https://www.linkedin.com/in/iksu-yeo-b4830315a/' target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/" target='_blank'><img src="https://img.shields.io/badge/iksuyeo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ik._.su/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 - 📫 If you want to contact me, feel free to leave a message :)
 
 ### Experience
-- :mortar_board: Studied M.tech (Computer Science) in Christ University, India
+- :black_nib: Studied M.tech (Computer Science) in Christ University, India
 - :mortar_board: Studeid B.tech (Electronic Engineering) in Kyunghee University, South Korea
 
 ### Skills
@@ -28,7 +28,6 @@
 
 <!--
 <a href="https://github.com/yeoiksu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false)"/></a>
-
 ![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoiksu&layout=compact&theme=buefy)](https://github.com/yeoiksu/github-readme-stats)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
