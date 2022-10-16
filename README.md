@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/ik._.su/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/iksu.yeo" target='_blank'><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
-## Welcome to My Space :rocket::cyclone::space_invader:
+## Welcome to My Space :rocket:
 #### 👋 Hi there, I’m Iksu Yeo, a developer from South Korea <br>
 
 ### Who Am I 
