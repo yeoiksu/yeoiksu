@@ -21,9 +21,9 @@
 
 #### Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-<hr>
 
+<!--
 ![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoiksu&layout=compact&theme=buefy)](https://github.com/yeoiksu/github-readme-stats)
-
-<!--<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">--!>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+--!>
