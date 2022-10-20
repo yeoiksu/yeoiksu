@@ -4,7 +4,8 @@
 <a href="https://www.instagram.com/ik._.su/" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/iksu.yeo" target='_blank'><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
-## Welcome to My Space :rocket:
+### Welcome to My Space :rocket:
+<hr>
 #### 👋 Hi there, I’m Iksu Yeo, a developer from South Korea <br>
 
 ### Who Am I 
@@ -17,6 +18,18 @@
 - :mortar_board: Studeid B.tech (Electronic Engineering) in Kyunghee University, South Korea
 
 ### Skills
+
+| Programming | Framework | Tools |
+| :---------- | :-------- | :---- | 
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white">   | <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">  |
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoiksu&layout=compact&theme=buefy)](https://github.com/yeoiksu/github-readme-stats)
+![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy&hide=issues)
+
+<!--
+
   #### - Programming
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  
 
@@ -26,7 +39,6 @@
   #### - Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
 
-<!--
 <a href="https://github.com/yeoiksu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visited&edge_flat=false)"/></a>
 ![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoiksu&layout=compact&theme=buefy)](https://github.com/yeoiksu/github-readme-stats)
