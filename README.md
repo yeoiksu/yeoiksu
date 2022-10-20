@@ -25,11 +25,14 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoiksu&layout=compact&theme=buefy)](https://github.com/yeoiksu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoiksu&theme=buefy&langs_count=3)](https://github.com/yeoiksu/github-readme-stats)
 ![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy&hide=issues)
 
-<!--
 
+
+
+
+<!--
   #### - Programming
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  
 
