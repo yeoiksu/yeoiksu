@@ -5,17 +5,16 @@
 <a href="https://www.facebook.com/iksu.yeo" target='_blank'><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
 ## Welcome to My Space :rocket:
-<hr>
 
 ### Who Am I 
-- 👋 Hi there, I’m Iksu Yeo, a developer from South Korea
+- 👋 Hi there~ I’m Iksu Yeo, a developer from South Korea
 - 👀 I’m interested in DL and NLP.
 - 🌱 I'm currently in Microsoft AI School program, learning AI tech. 
 - 📫 If you want to contact me, feel free to leave a message :)
 
 ### Experience
-- :black_nib: Studied M.tech (Computer Science) in Christ University, India
-- :mortar_board: Studeid B.tech (Electronic Engineering) in Kyunghee University, South Korea
+- :mortar_board: Studied M.tech (Computer Science) in Christ University, India
+- :black_nib: Studeid B.tech (Electronic Engineering) in Kyunghee University, South Korea
 
 ### Skills
 
