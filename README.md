@@ -5,9 +5,9 @@
 <a href="https://www.facebook.com/iksu.yeo" target='_blank'><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
 ## Welcome to My Space :rocket:
+- 👋 Hi there~ I’m Iksu Yeo, a developer from South Korea
 
 ### Who Am I 
-- 👋 Hi there~ I’m Iksu Yeo, a developer from South Korea
 - 👀 I’m interested in DL and NLP.
 - 🌱 I'm currently in Microsoft AI School program, learning AI tech. 
 - 📫 If you want to contact me, feel free to leave a message :)
@@ -22,16 +22,13 @@
 | :---------- | :-------- | :---- | 
 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white">   | <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">|
 
+<!--
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoiksu&theme=buefy&langs_count=3)](https://github.com/yeoiksu/github-readme-stats)
 ![Iksu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeoiksu&show_icons=true&theme=buefy&hide=issues)
 
 
-
-
-
-<!--
   #### - Programming
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white">  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  
 
